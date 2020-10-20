@@ -1,0 +1,60 @@
+body {
+    margin:0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+main, nav {
+    background-color: #1F2635;
+}
+
+main {
+    height:100vh;
+    padding-left: 5%;
+    align-content: center;    
+    padding-top:250px;
+}
+
+h1 {
+    color:white;
+    margin: 0px;
+    font-size: 80px;
+    width:500px;
+}
+
+main p {
+    width:200px;
+    color: white;
+}
+
+main button {
+    width: 120px;
+    padding: 20px;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    padding: 30px 30px;
+}
+
+.blocks {
+    display:flex;
+    justify-content: space-evenly;
+    margin: 3% 10%;
+    height: 300px;
+}
+
+.blocks div {
+    text-align: center;
+}
+
+.react-logo1 {
+    position: absolute;
+    top: 200px; left: 1040px;
+    width: 50%;
+}
+
+.react-logo2 {
+    position: absolute;
+    top: 400px; left: 500px;
+}
