@@ -50,11 +50,24 @@ nav {
 
 .react-logo1 {
     position: absolute;
-    top: 200px; left: 1040px;
-    width: 50%;
+    top: 200px; left: 1270px;
+    width: 10%;
 }
 
 .react-logo2 {
     position: absolute;
-    top: 400px; left: 500px;
+    top: 400px; left: 600px;
+    width:20%;
+}
+
+.react-logo3 {
+    position: absolute;
+    top: 40px; left: 800px;
+    width:30%
+}
+
+.react-logo4 {
+    position: absolute;
+    top: 700px; left: 1000px;
+    width:20%
 }

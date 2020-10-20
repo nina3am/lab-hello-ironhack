@@ -11,7 +11,8 @@ return (<section>
 <main>
 <img className="react-logo1" src="../images/react-logo.svg"></img>
 <img className="react-logo2" src="../images/react-logo.svg"></img>
-
+<img className="react-logo3" src="../images/react-logo.svg"></img>
+<img className="react-logo4" src="../images/react-logo.svg"></img>
 <h1>Say Hello to ReactJS</h1>
 <p>You will learn a Frontend
 framework from scratch, to
